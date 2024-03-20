@@ -18,3 +18,9 @@ if (temperature > 30) {
 // !== - строгая отрицательная проверка
 
 let time = prompt("время года");
+
+if (10 > 5) {
+	console.log(true);
+} else {
+	console.log(false);
+}
